@@ -1,6 +1,6 @@
 using System;
 
-namespace PolymorphismExample
+namespace Polymorphis
 {
     // Define the interface IQuittable
     public interface IQuittable
